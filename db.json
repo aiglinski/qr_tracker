@@ -1,0 +1,36 @@
+{
+    "logs": [{
+            "id": 1,
+            "message": "Convert this to log inventory",
+            "attention": true,
+            "date": "01/23/2020",
+            "tech": "Andrew"
+        },
+        {
+            "id": 2,
+            "message": "Convert to mobile app as well",
+            "attention": true,
+            "date": "01/23/2020",
+            "tech": "Andrew"
+        },
+        {
+            "id": 3,
+            "message": "Add Socket I/O functionality for live update without reload",
+            "attention": true,
+            "date": "01/23/2020",
+            "tech": "Andrew"
+        },
+        {
+            "message": "Use this layout for QR application, later push to Electron desktop application and React Native as well",
+            "attention": true,
+            "tech": "Andrew",
+            "date": "2020-01-24T20:55:50.733Z",
+            "id": 4
+        }
+    ],
+    "techs": [{
+        "id": 1,
+        "firstName": "Andrew",
+        "lastName": "Mueller"
+    }]
+}
